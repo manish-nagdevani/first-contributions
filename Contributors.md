@@ -1,4 +1,3 @@
-﻿- [Manish Nagdevani] (https://github.com/manish-nagdevani)
 -[Abhilekh Panwar](https://github.com/AbhilekhPanwar)
 -[Lucas Paganini](https://github.com/LucasPaganini)
 - [Chloe Stamper](https://github.com/chloelikescats)
@@ -1760,3 +1759,4 @@
 - [Tremaine Neethling](https://github.com/TremaineNeethling)
 - [David Goodrich](https://github.com/djgoodrich)
 bar hoshen
+- [Manish Nagdevani] (https://github.com/manish-nagdevani)
